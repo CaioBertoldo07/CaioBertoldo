@@ -2,7 +2,8 @@
 - 🎓Estudante de **Engenharia da Computação** na Universidade do Estado do Amazonas
 
 
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=CaioBertoldo&langs_count=6&theme=blueberry)  ![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=CaioBertoldo07&show_icons=true&theme=blueberry)
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=CaioBertoldo07&layout=compact&langs_count=6&theme=blueberry)
+  ![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=CaioBertoldo07&show_icons=true&theme=blueberry)
 
 
 
